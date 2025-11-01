@@ -42,3 +42,4 @@
       reso override 0x48B3F8 [0-hold,1-toggle,2-always on]
       md override 0x48B4E8 [0-hold,1-toggle,2-always on]
       expdisablekey 0x48B528 [0-hold,1-toggle,2-always on]
+      inverter key [nonkey] 0x95C990C [Enable / Disable]
