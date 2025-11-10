@@ -45,3 +45,4 @@
       inverter key [home] 0x95C99C [Enable / Disable]
       jitter 0x48B854 [Enable / Disable]
       type 0x48B824 [0-static,1-jitter,2-spin]
+      speed 0x48B8C4 [50-110]
