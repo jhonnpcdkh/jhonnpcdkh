@@ -5,7 +5,7 @@
   
      2020== imagebase=getmodulebaseadress(dll.name(otc.dll)) + 0x2CE724
   
-     2023== imagebase=getmodulebaseadress(dll.name(otc.dll)) + xxx
+     2023== imagebase=getmodulebaseadress(dll.name(otc.dll)) + 0x245B6C
 
       MinDamage Override 0x4763376 next +4 max x9 [Size 01=1;64=100]
       SlideWalk 0x48C39C [Enable / Disable]
