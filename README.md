@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @dkh , it's for legacy onecrack script offsets
 
+Imagebase search on ur verion Cs:Go
+//Найти антиаим (0-1) процесс адрес
+Процесс адрес(антиаим) минус (-) статик (антиаим)
+= значение сейчас imagebase
+==> это значение переводим в dec и в scan/search value ищем его
+находим otc.dll+(random--greenoffset)
+этот оффсет который с otc.dll (зелёный) и есть global+ if u try to search imagebase automatick made in GitHub by dkh//
 
      2018== imagebase=getmodulebaseadress(dll.name(otc.dll)) + 0x19F438
   
