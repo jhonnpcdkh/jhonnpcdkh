@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @dkh , it's for legacy onecrack script offsets
 
-      imagebase=getmodulebaseadress(dll.name(otc.dll)) + 0x19F438
+     2018== imagebase=getmodulebaseadress(dll.name(otc.dll)) + 0x19F438
+     2020== imagebase=getmodulebaseadress(dll.name(otc.dll)) + 0x2CE724
+     2023== imagebase=getmodulebaseadress(dll.name(otc.dll)) + xxx
 
       MinDamage Override 0x4763376 next +4 max x9 [Size 01=1;64=100]
       SlideWalk 0x48C39C [Enable / Disable]
